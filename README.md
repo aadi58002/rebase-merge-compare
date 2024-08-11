@@ -7,4 +7,4 @@ Changes in Merge 1 Branch Change 2
 Changes in Squash 1 Branch Change 2
 
 # rebase-merge-compare
-Changes in Rebase 1
+Changes in Rebase 1 Branch Change 2
