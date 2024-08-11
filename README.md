@@ -4,4 +4,4 @@
 Changes in Merge 1 Branch Change 2
 
 # rebase-merge-compare
-Changes in Squash 1
+Changes in Squash 1 Branch Change 2
